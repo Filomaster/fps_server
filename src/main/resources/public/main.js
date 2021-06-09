@@ -1,0 +1,1 @@
+(()=>{var e=document.getElementById("root"),t=document.createElement("div");t.innerHTML="<a href='/editor.html'>Editor</a><a href='/game.html'>Game</a>",t.style.display="grid",t.style.placeItems="center",e.append(t)})();
